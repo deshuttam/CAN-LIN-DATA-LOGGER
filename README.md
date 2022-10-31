@@ -9,12 +9,8 @@ The modern automobiles incorporate about 70-150 Electronic Control Units (ECUs).
 OBD (On Board Diagnostics) is a self diagnostics and reporting capability that an example mechanics use to identify what is wrong in the car. The OBD standard specifies the number of standardized Diagnostic Trouble Code (DTC) which can be retrieved via CAN/LIN logger or diagnostics tool for any vehicle. OBD is also used for an example real-time vehicle telematics or post analysis using CAN/LIN data loggers, applications include vehicle fleet management, fuel optimization proactive vehicle diagnostics and more.
 ![image](https://user-images.githubusercontent.com/107185323/198985188-d53ef5e4-bedf-4221-aa04-18d0712a6caf.png)
 
-
-
 ![image](https://user-images.githubusercontent.com/107185323/198985461-5d1fc901-0883-4536-a480-77638876f4ba.png)
 
-
-Reception:
 ![image](https://user-images.githubusercontent.com/107185323/198985516-8f0da875-9950-407b-8666-41d07d9e4db2.png)
 
 
