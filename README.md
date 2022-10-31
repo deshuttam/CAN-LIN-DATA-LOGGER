@@ -10,7 +10,7 @@ OBD (On Board Diagnostics) is a self diagnostics and reporting capability that a
 ![image](https://user-images.githubusercontent.com/107185323/198985188-d53ef5e4-bedf-4221-aa04-18d0712a6caf.png)
 
 
-Transmission:
+
 ![image](https://user-images.githubusercontent.com/107185323/198985461-5d1fc901-0883-4536-a480-77638876f4ba.png)
 
 
